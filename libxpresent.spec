@@ -5,7 +5,7 @@
 Summary:	An Xlib compatible API for the Present extension
 Name:		libxpresent
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		System/Libraries
 URL:		http://xorg.freedesktop.org/
